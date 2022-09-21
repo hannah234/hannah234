@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi! I'm Hannah 👋
 
 <!--
 **hannah234/hannah234** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+👩🏽‍💻 I'm currently doing a Software Engineering Apprenticeship \
+💫 Feel free to contact me to talk about anything computer-science related! 
