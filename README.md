@@ -15,5 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-👩🏽‍💻 I'm currently doing a Software Engineering Apprenticeship \
-💫 Feel free to contact me to talk about anything computer-science related! 
+
